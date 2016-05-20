@@ -1,5 +1,34 @@
 $( document ).ready(function() {
-$("body").css("background-image", "http://mimsmadness.com/wordpress/wp-content/uploads/2013/01/bigstock-Baseball-on-fire-15689423.jpg")
-//Your jquery goes here
+$("#yankee-stadium").hide();
+  $("#fenway-park").hide();
+  $("#camden-yards").hide();
+  $("#rogers-centre").hide();
+  $("#comerica-park").hide();
+  $("#the-coliseum").hide();
+  $("#kauffman-stadium").hide();
+  $("#angel-stadium").hide();
+  $("#citi-field").hide();
+  $("#rogers-centre").hide();
+  $("#marlins-park").hide();
+  $("#target-field").hide();
+  $("#minute-maid-park").hide();
+  $("#safeco-field").hide();
+  $("#rangers-ballpark").hide();
+  $("#camden-yards").hide();
+  $("#rogers-centre").hide();
+  $("#the-coliseum").hide();
+  $("#us-cellular-field").hide();
+  $("#busch-stadium").hide();
+  $("#turner-field").hide();
+  $("#progressive-field").hide();
+  $("#citizens-bank-park").hide();
+  $("#pnc-park").hide();
+  $("#great-american-ballpark").hide();
+  $("#miller-park").hide();
+  $("#nationals-park").hide();
+  $("#play").show();
+
+
 
 });
+
