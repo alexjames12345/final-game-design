@@ -26,7 +26,8 @@ $("#yankee-stadium").hide();
   $("#great-american-ballpark").hide();
   $("#miller-park").hide();
   $("#nationals-park").hide();
-  $("#play").show();
+  $("#wrigley-field").hide();
+  $("#start").show();
 
 
 

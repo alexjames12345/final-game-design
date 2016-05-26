@@ -1,6 +1,6 @@
 body {
 
-	background-image: url("http://hdwallpaperia.com/wp-content/uploads/2013/11/Game-Backgrounds-Wallpaper.jpg");
+	background-image: url("http://whiskeytangoglobetrot.com/wp-content/uploads/2015/04/Comerica-park.jpg");
     background-size: cover;
     background-position: center center;
 	font-family: monospace;
@@ -40,7 +40,11 @@ body {
 /*Stuff below governs the Explore screen*/
 
 #exploreBody {
-	background-image: url("img/exploreHome1.jpg");
+	background-image: url("http://mimsmadness.com/wordpress/wp-content/uploads/2013/01/bigstock-Baseball-on-fire-15689423.jpg");
 	background-position: bottom center;
 
+}
+
+#play  {
+    
 }
