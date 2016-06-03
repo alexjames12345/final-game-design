@@ -29,6 +29,7 @@ $("#yankee-stadium").hide();
   $("#wrigley-field").hide();
   $("#start").show();
 
+
 });
 
 $("#start").click(function(){
@@ -37,5 +38,11 @@ $("#fenwayparkplay").show
 $("#rogerscentreplay").show
 $("#camdenyardsplay").show
 $("#yankeestadiumplay").show
+$("#tropicanafieldplay").show
+
+
+
+
+
 
 
