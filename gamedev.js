@@ -28,19 +28,20 @@ $("#yankee-stadium").hide();
   $("#nationals-park").hide();
   $("#wrigley-field").hide();
   $("#start").show();
+  $("#hr1").hide();
+
 
 
 });
 
-$("#start").click(function(){
-$("#yankeestadiumplay").show();
-$("#fenwayparkplay").show();
-$("#rogerscentreplay").show();
-$("#camdenyardsplay").show();
-$("#yankeestadiumplay").show();
-$("#tropicanafieldplay").show();
-});
+$("#swing1").click(function(){
+	$("hr1").show();
+
+//this is where actions go
+});//do not delete
  	 
+
+
 
 
 
