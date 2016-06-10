@@ -8,14 +8,14 @@ body {
 }
 
 /*Stuff below governs the start screen*/
-
+    
 .titleContent {
 	margin: 10% auto;
-    text-align: top-center;
+    text-align: center;
 }
 
 .splashTitle {
-	color: blue;
+	color: #fff;
     font-size: 8em;
     text-transform: uppercase;
     text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
@@ -27,7 +27,7 @@ body {
     padding: 20px 50px;
     font-size: 5em;
     text-decoration: none;
-    background-color: red;
+    background-color: #abc;
     box-shadow: 15px 15px 80px #555;
 }
   a.button:hover {
@@ -40,9 +40,10 @@ body {
 /*Stuff below governs the Explore screen*/
 
 #exploreBody {
-	background-image: url("http://mimsmadness.com/wordpress/wp-content/uploads/2013/01/bigstock-Baseball-on-fire-15689423.jpg");
+	background-image: url("http://i2.cdn.turner.com/cnnnext/dam/assets/150429151938-01-white-sox-and-orioles-super-169.jpg");
 	background-position: bottom center;
-    background-color:;
+
+    
 
 }
 
