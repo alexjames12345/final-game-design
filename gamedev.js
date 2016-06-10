@@ -39,7 +39,7 @@ $("#rogerscentreplay").show();
 $("#camdenyardsplay").show();
 $("#yankeestadiumplay").show();
 $("#tropicanafieldplay").show();
-
+});
  	 
 
 
