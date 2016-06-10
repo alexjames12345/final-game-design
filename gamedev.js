@@ -33,14 +33,14 @@ $("#yankee-stadium").hide();
 });
 
 $("#start").click(function(){
-$("#yankeestadiumplay").show
-$("#fenwayparkplay").show
-$("#rogerscentreplay").show
-$("#camdenyardsplay").show
-$("#yankeestadiumplay").show
-$("#tropicanafieldplay").show
+$("#yankeestadiumplay").show();
+$("#fenwayparkplay").show();
+$("#rogerscentreplay").show();
+$("#camdenyardsplay").show();
+$("#yankeestadiumplay").show();
+$("#tropicanafieldplay").show();
 
-
+ 	 
 
 
 
